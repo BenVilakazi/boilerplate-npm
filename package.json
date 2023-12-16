@@ -1,5 +1,16 @@
 {
+  "author": "Ben Vilakazi",
+  
 	"name": "fcc-learn-npm-package-json",
+  
+  "description": "A project that does something awesome",
+  
+  "keywords": [ "descriptive", "related", "words", "I", "Don't", "Have", "Many", "freecodecamp" ],
+
+  "license": "MIT",
+
+  "version": "1.2.0",
+  
 	"dependencies": {
 		"express": "^4.14.0"
 	},
